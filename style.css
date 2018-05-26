@@ -1,0 +1,39 @@
+img{
+	/*position: relative;*/
+	width : 1536px;
+	height:758px;
+}
+/*.a{
+	position: relative;
+	
+	width: 50%;
+
+}*/
+h2{
+	position: absolute;
+	top:11px ;
+	left: 650px;
+	color:white;
+	font-family: 'Pacifico', cursive;
+}
+.move{
+
+	/*position: absolute;
+	top:550px ;
+	left: 713px;*/
+background-color: rgb(240, 209, 45);
+font-family: 'Pacifico', cursive;
+border-radius: 20px;
+width: 196px;
+
+
+}
+.mov{
+
+	position: absolute;
+	top:679px ;
+	left: 686px;
+}
+.move :hover{
+	color: rgb(240, 209, 45);
+}
